@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main project in Jonas' ultimate react course
+A hotel booking application for employee's access
